@@ -1,0 +1,10 @@
+{
+  "name": "ai-ugc-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local marketing site for Ayra Studio, a done-for-you AI UGC service.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
